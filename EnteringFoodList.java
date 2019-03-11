@@ -1,3 +1,6 @@
+//THIS CLASS IS RESPONSIBLE FOR CREATING/OPENING THE FOODLIST FILE AND WRITING NEW INFORMATION
+//TO IT
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
