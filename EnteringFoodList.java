@@ -1,6 +1,3 @@
-//THIS CLASS IS RESPONSIBLE FOR CREATING/OPENING THE FOODLIST FILE AND WRITING NEW INFORMATION
-//TO IT
-
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -30,7 +27,7 @@ public class EnteringFoodList {
 	}
 
 
-    /*public static void main(String args[]) throws IOException
+   /* public static void main(String args[]) throws IOException
     {
 	   EnteringFoodList obj = new EnteringFoodList();
 	   obj.entering_name();
@@ -39,4 +36,3 @@ public class EnteringFoodList {
 	   
 	
 }
-
