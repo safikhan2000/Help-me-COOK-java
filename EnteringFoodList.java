@@ -7,6 +7,7 @@ public class EnteringFoodList {
 	private static String s1="FoodList.txt";
 	public void entering_name() throws IOException
 	{
+		//editing demo
 		BufferedWriter out = new BufferedWriter(new FileWriter(s1,true));
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 		System.out.println("Please enter the new food item");
