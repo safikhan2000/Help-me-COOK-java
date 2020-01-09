@@ -22,6 +22,7 @@ public class EnteringFoodList {
 		out.append(finalEntry);
 		out.newLine();
 		out.close();
+		//editing demo using iamGorilla
 		
 		
 		
